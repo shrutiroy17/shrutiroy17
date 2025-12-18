@@ -1,10 +1,34 @@
-- 👋 Hi, I’m shruti 
-- 👀 I’m interested in web and app development
-- 🌱 I’m currently learning web development
+# Hi, I'm Shruti Roy 👋
 
-- 📫 How to reach me shrutiroy617@gmail.com
+### Software Engineer | Frontend Specialist & Problem Solver
 
-<!---
-shrutiroy17/shrutiroy17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am also a Frontend Developer dedicated to creating seamless user experiences with a focus on performance and clean architecture. Currently, I am deep-diving into Data Structures and Algorithms to bridge the gap between intuitive UI design and robust backend logic.
+Currently: Building responsive web applications and mastering O(n) efficiency
+
+### 🛠️ Technical Ecosystem
+
+**Languages**
+C++
+HTML
+CSS
+JavaScript
+
+**Frameworks & Tools**
+ReactJS
+TailwindCSS
+GitHub
+
+### 🚀 Featured Work
+
+#### Flora Saviors Website (https://florasaviors.org/)
+* **Tech:** HTML, CSS and JavaScript 
+* **Result:** Informative websites with creative components like scroll and caraousals , helping the NGO gain better Recognition and Accessibility amongst interested people.
+
+#### Pharmacy Management System 
+* **Tech:** HTML , CSS , Flask (Backend)
+* **Result:** A centralized system for tracking inventory , suggesting medications/prescriptions , storing customer details and validating user activities through login portal.
+
+
+### 📫 Let's Connect
+- **LinkedIn:** www.linkedin.com/in/shruti-roy-cse
+- **Email:** shrutiroy2217@gmail.com
