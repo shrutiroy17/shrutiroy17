@@ -28,7 +28,16 @@ GitHub
 * **Tech:** HTML , CSS , Flask (Backend)
 * **Result:** A centralized system for tracking inventory , suggesting medications/prescriptions , storing customer details and validating user activities through login portal.
 
+### Personal Portfolio Website | React.js and Tailwind CSS (https://shrutiroyportfolio.netlify.app/)
+* **Tech:** React.js and Tailwind CSS, achieving 100% cross-browser compatibility.
+* Implemented asynchronous data handling via the Fetch API to connect the frontend with a third-party email service (Formspree), eliminating the need for
+custom backend.
+* Optimized code management and development speed by implementing a Component-Based Architecture in React.js, resulting in ,modular codebase with
+highly reusable UI elements..
+* Engineered a mobile-first, responsive interface using Tailwind CSS utility classes, ensuring 100% layout consistency across all device breakpoints
+
+
 
 ### 📫 Let's Connect
 - **LinkedIn:** www.linkedin.com/in/shruti-roy-cse
-- **Email:** shrutiroy2217@gmail.com
+- **Email:** shrutiroy.175@gmail.com
